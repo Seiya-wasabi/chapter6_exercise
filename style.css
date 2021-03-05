@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+.box1 {
+  height: 200px;
+  background-image: url(/Users/se-ya/Desktop/chapter6_exercise/img/box1.jpg);
+}
